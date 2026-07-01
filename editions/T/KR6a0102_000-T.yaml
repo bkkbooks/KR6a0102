@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0102/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說五蘊皆空經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0102.xml
+    old_id: T02n0102
+hash: sha256:bd5f80673861c405afd8598529f009a1c9f2f1e920c7e94550f83dc8a41d8279
