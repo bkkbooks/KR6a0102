@@ -15,16 +15,25 @@ metadata:
   edition:
     short: bkk
 editions:
-- {short: 宋, label: 宋, source_xml_id: wit1}
-- {short: 元, label: 元, source_xml_id: wit2}
-- {short: 明, label: 明, source_xml_id: wit3}
-- {short: 大, label: 大, source_xml_id: wit.orig}
+- short: 宋
+  label: 宋
+  source_xml_id: wit1
+- short: 元
+  label: 元
+  source_xml_id: wit2
+- short: 明
+  label: 明
+  source_xml_id: wit3
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
 assets:
   parts:
   - {seq: 0, filename: KR6a0102_000.yaml, hash: 'sha256:bd5f80673861c405afd8598529f009a1c9f2f1e920c7e94550f83dc8a41d8279'}
-  - {seq: 1, filename: KR6a0102_001.yaml, hash: 'sha256:3af403e806270d6d31f6d4ac0151db7bf51eb1e363b85ed8c46c8d81a4490cba'}
+  - {seq: 1, filename: KR6a0102_001.yaml, hash: 'sha256:73ccd538e5571dcb2e7601ce22c614c13c137982decc99b667b8c627d52818a3'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6a0102_001.markers.yaml, hash: 'sha256:3db5317145d8249987b75d3bc0edca1fbedaa2e4aace585aa1329295e2805907'}
+  - {seq: 0, role: markers, filename: assets/KR6a0102_000.markers.yaml, hash: 'sha256:3c46bf705c2aca5c252b14885cdcd1279e882b61a4ee791a1cc6acd73ab01db5'}
+  - {seq: 1, role: markers, filename: assets/KR6a0102_001.markers.yaml, hash: 'sha256:918caa275ad18f44b0eb5fb4aa39d9867d3e200cef6fed01a51adfdb22831e2f'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +45,4 @@ table_of_contents:
   label: 佛說五蘊皆空經
   type: juan
   level: 1
-hash: sha256:d7e07415dfd1158de4278942a61689087244761e4e25d9adef643d30fb3e3da2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c810a767baae9372d7599fcfd9d17fef9a99547f7e5fa278d50e623a3da4312a
