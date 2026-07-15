@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6a0102/v1
 canonical_location: https://kanripo.org/bkk/KR6a0102/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說五蘊皆空經
   identifiers:
@@ -30,10 +30,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6a0102_000.yaml, hash: 'sha256:bd5f80673861c405afd8598529f009a1c9f2f1e920c7e94550f83dc8a41d8279'}
-  - {seq: 1, filename: KR6a0102_001.yaml, hash: 'sha256:73ccd538e5571dcb2e7601ce22c614c13c137982decc99b667b8c627d52818a3'}
+  - {seq: 1, filename: KR6a0102_001.yaml, hash: 'sha256:7b48dd8ea33d738421f32471632a539b54f066ca4994bb2720680201234e6c08'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6a0102_000.markers.yaml, hash: 'sha256:3c46bf705c2aca5c252b14885cdcd1279e882b61a4ee791a1cc6acd73ab01db5'}
-  - {seq: 1, role: markers, filename: assets/KR6a0102_001.markers.yaml, hash: 'sha256:918caa275ad18f44b0eb5fb4aa39d9867d3e200cef6fed01a51adfdb22831e2f'}
+  - {seq: 1, role: markers, filename: assets/KR6a0102_001.markers.yaml, hash: 'sha256:7e065e8d27a74edbc7d244730421c36bb381e2004b17431081d689b08b042202'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,4 +45,7 @@ table_of_contents:
   label: 佛說五蘊皆空經
   type: juan
   level: 1
-hash: sha256:c810a767baae9372d7599fcfd9d17fef9a99547f7e5fa278d50e623a3da4312a
+hash: sha256:dbca81fed6326706b6b9fd102c1b2958db4d27406bed551e6ee1b10ae552833d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

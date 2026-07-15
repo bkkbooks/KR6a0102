@@ -101,6 +101,7 @@ markers:
   - {type: punctuation, offset: 239, content: ，, id: KR6a0102_T_001-bkkpn62}
   - {type: punctuation, offset: 247, content: 。, id: KR6a0102_T_001-bkkpn63}
   - {type: line-break, offset: 254, content: '', id: KR6a0102_T_001-0499c23, ed: T, 'n': 0499c23}
+  - {type: substitution, offset: 254, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19653}}
   - {type: punctuation, offset: 255, content: ，, id: KR6a0102_T_001-bkkpn64}
   - {type: punctuation, offset: 260, content: ，, id: KR6a0102_T_001-bkkpn65}
   - {type: punctuation, offset: 268, content: ，, id: KR6a0102_T_001-bkkpn66}
@@ -120,6 +121,7 @@ markers:
   - {type: punctuation, offset: 309, content: 」, id: KR6a0102_T_001-bkkpn76}
   - {type: xml-element, offset: 309, content: '', id: pT02p0499c1802_end, name: p, role: close, attrs: {'xml:id': pT02p0499c1802, 'cb:place': inline}}
   - {type: xml-element, offset: 309, content: '', id: pT02p0499c2607, name: p, role: open, attrs: {'xml:id': pT02p0499c2607, 'cb:place': inline}}
+  - {type: substitution, offset: 309, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
   - {type: punctuation, offset: 313, content: ，, id: KR6a0102_T_001-bkkpn77}
   - {type: punctuation, offset: 317, content: ，, id: KR6a0102_T_001-bkkpn78}
   - {type: line-break, offset: 319, content: '', id: KR6a0102_T_001-0499c27, ed: T, 'n': 0499c27}
@@ -129,4 +131,4 @@ markers:
   - {type: xml-element, offset: 329, content: '', id: pT02p0499c2607_end, name: p, role: close, attrs: {'xml:id': pT02p0499c2607, 'cb:place': inline}}
   - {type: line-break, offset: 329, content: '', id: KR6a0102_T_001-0499c28, ed: T, 'n': 0499c28}
   back: []
-hash: sha256:918caa275ad18f44b0eb5fb4aa39d9867d3e200cef6fed01a51adfdb22831e2f
+hash: sha256:7e065e8d27a74edbc7d244730421c36bb381e2004b17431081d689b08b042202
