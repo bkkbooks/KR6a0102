@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6a0102_000-T.yaml, hash: 'sha256:bd5f80673861c405afd8598529f009a1c9f2f1e920c7e94550f83dc8a41d8279'}
   - {seq: 1, filename: KR6a0102_001-T.yaml, hash: 'sha256:73ccd538e5571dcb2e7601ce22c614c13c137982decc99b667b8c627d52818a3'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0102_000-T.markers.yaml, hash: 'sha256:c537430753f919d916041cee4178f99491b80d9a823639a3cf308ac16fec4c0a'}
+  - {seq: 0, role: markers, filename: assets/KR6a0102_000-T.markers.yaml, hash: 'sha256:c15a162248977b5dd36bcd0e3d8cf9633da89831433aed551e7911f0f824d79f'}
   - {seq: 1, role: markers, filename: assets/KR6a0102_001-T.markers.yaml, hash: 'sha256:6a2a252e4236673d69e0a28e62d365dbb8ff2b3b3bf934d791f86eaebc7ecff7'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 佛說五蘊皆空經
   type: juan
   level: 1
-hash: sha256:6e271805070dc8c82fedfc02f69463bef8510f3484410ebf4084c2d9accbd77f
+hash: sha256:59916d37b2916dd145dc014cc40f09525e474ea96fe2d57afef9c0d3d7f62a3e
